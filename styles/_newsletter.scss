@@ -1,0 +1,35 @@
+.newsletter_container {
+  // content
+  .newsletter_content {
+    background-color: $secondary-color;
+    padding: 5rem 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+
+    // header
+    .section_header {
+      color: $white;
+      margin-bottom: 2rem;
+      max-width: 750px;
+      margin-inline: auto;
+    }
+
+    // form
+    form{
+        width: 100%;
+        max-width: 600px;
+          margin-inline: auto;
+          padding: .25rem;
+          background-color: $white;
+          border-radius: .5rem;
+          display: flex;
+          align-items: center;
+
+          input{
+            flex: 1;
+            padding-inline: 1rem;
+            font-size: 1rem;
+          }
+    }
+  }
+}
