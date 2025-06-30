@@ -1,3 +1,6 @@
+#Screen Recording
+![novaforge digital](https://github.com/user-attachments/assets/e3194a6a-50da-4053-b939-13bc33fa32cf)
+
 
 🚀 NovaForge Digital – Responsive Web Design Project
 NovaForge Digital is a modern and responsive landing page website crafted using HTML, SCSS, CSS, and JavaScript. The project showcases a sleek, professional layout ideal for digital agencies, creative businesses, or portfolios, emphasizing user experience and mobile-first design.
