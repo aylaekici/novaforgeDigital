@@ -34,10 +34,7 @@ Responsive Design – Mobile-first approach with smooth layout adjustments acros
 🧩 Navigation bar with smooth scrolling links
 
 📁 Project Structure
-bash
-Kopyala
-Düzenle
-/novaforge-digital
+
 │
 ├── index.html           # Main HTML structure
 ├── /scss                # SCSS source files
